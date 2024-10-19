@@ -2,7 +2,9 @@
   "name": "playwright",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "post---test": "allure generate ./allure-results -o ./allure-report --clean  allure open ./allure-report"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
