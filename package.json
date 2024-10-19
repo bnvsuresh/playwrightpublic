@@ -1,0 +1,26 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.3",
+    "@playwright/test": "^1.48.0",
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^22.7.5",
+    "allure-playwright": "^3.0.4"
+  },
+  "dependencies": {
+    "allure-playwright": "^3.0.4",
+    "crypto-js": "^4.2.0",
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.4.5",
+    "moment-timezone": "^0.5.46",
+    "winston": "^3.15.0"
+  }
+}
