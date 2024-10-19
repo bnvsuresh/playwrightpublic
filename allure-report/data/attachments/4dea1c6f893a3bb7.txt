@@ -1,0 +1,18 @@
+2024-10-17T20:04:54+01:00 [info]: Navigated to https://traffordleisure.gladstonego.cloud/book
+2024-10-17T20:04:57+01:00 [info]: Clicked main login button
+2024-10-17T20:04:57+01:00 [info]: Found valid element with locator: #username
+2024-10-17T20:04:57+01:00 [info]: Filled pasword
+2024-10-17T20:04:57+01:00 [info]: Clicked login button
+2024-10-17T20:05:00+01:00 [info]: Dashboard Link is visible
+2024-10-17T20:05:00+01:00 [info]: login Testing  is completed
+2024-10-17T20:05:00+01:00 [info]: login is completed
+2024-10-17T20:05:01+01:00 [info]: Navigated to https://traffordleisure.gladstonego.cloud/book
+2024-10-17T20:05:04+01:00 [info]: Clicked main login button
+2024-10-17T20:05:04+01:00 [info]: Found valid element with locator: #username
+2024-10-17T20:05:04+01:00 [info]: Filled pasword
+2024-10-17T20:05:05+01:00 [info]: Clicked login button
+2024-10-17T20:05:07+01:00 [info]: Dashboard Link is visible
+2024-10-17T20:05:07+01:00 [info]: Fill Activity
+2024-10-17T20:05:07+01:00 [info]: Fill date
+2024-10-17T20:05:08+01:00 [info]: Fill Time
+2024-10-17T20:05:08+01:00 [info]: Home Test for date 22 hour  18 Completed
