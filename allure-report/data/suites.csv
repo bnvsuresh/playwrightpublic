@@ -1,3 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","8012","Home Test for date 23 hour  17","chromium","Thu Oct 17 20:37:09 BST 2024","passed","Thu Oct 17 20:37:17 BST 2024","TestCase Desc 1","test.spec.ts","",""
-"","8691","Home Test for date 22 hour  18","chromium","Thu Oct 17 20:36:49 BST 2024","passed","Thu Oct 17 20:36:58 BST 2024","TestCase Desc 1","test.spec.ts","",""
